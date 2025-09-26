@@ -1,0 +1,5 @@
+pub const ANCHOR_DISCRIMINATOR_SIZE: usize = 8;
+pub const MAX_CANDIDATE_NAME_LENGTH: usize = 64;
+pub const MAX_ELECTION_TITLE_LENGTH: usize = 128;
+pub const MAX_ELECTION_DESCRIPTION_LENGTH: usize = 512;
+pub const MAX_CANDIDATES_PER_ELECTION: usize = 20;
